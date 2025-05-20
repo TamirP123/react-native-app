@@ -3,7 +3,7 @@ import { Stack } from "expo-router";
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
 
-import "./global.css";
+import "./globals.css";
 // import GlobalProvider from "@/lib/global-provider";
 
 export default function RootLayout() {
